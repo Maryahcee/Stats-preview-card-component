@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Maryahcee/Stats-preview-card-component)
-- Live Site URL: [ ](https://your-live-site-url.com)
+- Live Site URL: [ ](https://stats-card-component-preview.netlify.app/)
 
 ## My process
 I used mobile first approach.
@@ -61,7 +61,6 @@ Adding the overlay was something I have never done and this was a good opportuni
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [Mary Njoroge](https://www.frontendmentor.io/profile/Maryahcee)
 
 ## Acknowledgments
