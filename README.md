@@ -32,7 +32,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Maryahcee/Stats-preview-card-component)
-- Live Site URL: [ ](https://stats-card-component-preview.netlify.app/)
 
 ## My process
 I used mobile first approach.
