@@ -17,7 +17,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 
 ## Overview
-This challenge helped me practice more positioning styles for my container. Media queries too were a huge part of ensuring that my project can be seen both in mobile and phone.
+This challenge helped me practice more positioning styles for my container. Media queries too were a huge part of ensuring that my project can be seen both in mobile and desktop view.
 ### The challenge
 
 Users should be able to:
@@ -57,7 +57,7 @@ Adding the overlay was something I have never done and this was a good opportuni
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me to know how to add an overlay in the background of my image. I really liked this pattern and will use it going forward.
+- [ resource 1](https://www.w3schools.com/) - This helped me to know how to add an overlay in the background of my image. I really liked this pattern and will use it going forward.
 
 ## Author
 
